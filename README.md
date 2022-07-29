@@ -1,9 +1,9 @@
 # doqqy-rich-text-editor
-![doqqy](https://user-images.githubusercontent.com/93267164/181705988-ec98160f-a36f-4b9d-b017-585ee3400e2a.png)
 
-###A lightweight and minimal rich text editor for desktop based off google docs, and written in PyQT5.
 
-![Screenshot from 2022-07-29 09-23-19](https://user-images.githubusercontent.com/93267164/181706426-d01b20f0-1c02-4fae-a2b5-a057878c00e7.png)
+### A lightweight and minimal rich text editor for desktop based off google docs, and written in PyQT5.
+
+
 
 
 
